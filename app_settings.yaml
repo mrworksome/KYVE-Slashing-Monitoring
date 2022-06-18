@@ -1,0 +1,7 @@
+CLICKHOUSE:
+  DRIVER: clickhouse
+  NAME: kyve_data
+  HOST: localhost
+  PORT: 8123
+  USER: ''
+  PASSWORD: ''
